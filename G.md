@@ -1,3 +1,5 @@
 
 * [An exquisitely deep view of quenching galaxies through the gravitational lens: Stellar population, morphology, and ionized gas](https://arxiv.org/pdf/2106.08338.pdf): This work presents an in-depth analysis of four gravitationally lensed red galaxies at z = 1.6 − 3.2. The sources are magnified by factors of 2.7 – 30 by foreground clusters, enabling spectral and mor- phological measurements that are otherwise challenging. 
 <img width="1138" alt="image" src="https://user-images.githubusercontent.com/37625284/122327669-d60e3f00-cf60-11eb-8a41-09f9e25fba7d.png">
+
+* [Galaxy hunters spot hidden giants in the early universe](https://www.sciencemag.org/news/2019/08/galaxy-hunters-spot-hidden-giants-early-universe): Project by Tao Wang(NJU), Science news. 恒星诞生时氢气体会吸收UV波段的某波长以下的光， 高z的可观测的为红外和光学波段的辐射。HST已经观测到了age<2billYear的几百个星系。但是该方法的缺点是只灵敏于小的、年轻的星系，而对更大个头、年老的星系不灵敏。这些星系年老，有更多的SN，更多dust,可以吸收更多的UV光，所以就没有了光谱上的cutoff, 实际上早期的大质量G在光学看不见，但是dust在吸收光之后会在FIR波段有辐射，从而在radio上发光。所以我们用的ALMA观测39个星系的FIR的H-dropouts, 这些有SF，但是还没有中心的SMBH，核区温度为35K，M=10^10Msun。
