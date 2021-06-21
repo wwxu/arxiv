@@ -9,4 +9,5 @@ the Pegasus–Perseus filament.
 <img width="762" alt="image" src="https://user-images.githubusercontent.com/37625284/122325101-89286980-cf5c-11eb-891e-066426e31462.png">
 <img width="1554" alt="image" src="https://user-images.githubusercontent.com/37625284/122325043-71e97c00-cf5c-11eb-9a06-b012fb9d64c1.png">
 
-2. <img width="1032" alt="image" src="https://user-images.githubusercontent.com/37625284/122713680-a16bf180-d298-11eb-85b8-79dd3e2869b6.png">
+2. 
+<img width="1032" alt="image" src="https://user-images.githubusercontent.com/37625284/122713680-a16bf180-d298-11eb-85b8-79dd3e2869b6.png">
