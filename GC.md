@@ -1,4 +1,5 @@
-1. [Abell 2626 and friends: large and small scale structure](https://arxiv.org/pdf/2106.08806.pdf): New MMT/Hectospec spectroscopy centered on the galaxy cluster 
+1. [Abell 2626 and friends: large and small scale structure](https://arxiv.org/pdf/2106.08806.pdf): 
+New MMT/Hectospec spectroscopy centered on the galaxy cluster 
 A2626 and covering a ∼1.8 deg2 area out to z ∼ 0.46 more than doubles the number of galaxy redshifts in this region. The spectra confirm four clusters 
 previously identified photometrically. A2625, which was previously thought to be a close neighbor of A2626, is in fact much more distant. The new data 
 show six substructures associated with A2626 and five more associated with A2637. There is also a highly collimated collection of galaxies and galaxy 
@@ -11,3 +12,5 @@ the Pegasus–Perseus filament.
 
 2. 
 <img width="1032" alt="image" src="https://user-images.githubusercontent.com/37625284/122713680-a16bf180-d298-11eb-85b8-79dd3e2869b6.png">
+
+3. [The Planck clusters in the LOFAR sky III. LoTSS-DR2: Dynamic states and density fluctuations of the intracluster medium](https://arxiv.org/pdf/2210.07284.pdf): 
